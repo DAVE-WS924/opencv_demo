@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+
+# Data folders (per request, not uploading)
+data/
+data_320sz/
+data_out/
+output/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+run
+*.exe
+
+# IDE / editor
+.vscode/
+.cache/
+*.swp
+*~
+
+# OS
+.DS_Store
+*:Zone.Identifier
